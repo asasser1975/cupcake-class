@@ -12,6 +12,11 @@ h2 {
   text-align: center;
 }
 
+h2.flashy {
+  color: red;
+  font-style: italic;
+}
+
 p {
   font-family: sans-serif;
 }

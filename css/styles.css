@@ -36,3 +36,9 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+.best {
+  font-weight: bold;
+  color: orange;
+  font-size: 30pt;
+}
